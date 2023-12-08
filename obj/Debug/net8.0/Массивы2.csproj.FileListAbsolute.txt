@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\WCode\Массивы2\bin\Debug\net8.0\Массивы2.exe
+C:\Users\Илья\Desktop\WCode\Массивы2\bin\Debug\net8.0\Массивы2.deps.json
+C:\Users\Илья\Desktop\WCode\Массивы2\bin\Debug\net8.0\Массивы2.runtimeconfig.json
+C:\Users\Илья\Desktop\WCode\Массивы2\bin\Debug\net8.0\Массивы2.dll
+C:\Users\Илья\Desktop\WCode\Массивы2\bin\Debug\net8.0\Массивы2.pdb
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.AssemblyInfo.cs
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.sourcelink.json
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.dll
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\refint\Массивы2.dll
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.pdb
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\Массивы2.genruntimeconfig.cache
+C:\Users\Илья\Desktop\WCode\Массивы2\obj\Debug\net8.0\ref\Массивы2.dll
